@@ -1,0 +1,1390 @@
+[
+  {
+    "name": "Incineroar",
+    "partners": [
+      "Xerneas",
+      "Tornadus",
+      "Tapu Fini",
+      "Regieleki",
+      "Whimsicott",
+      "Kyogre",
+      "Pheromosa",
+      "Cresselia",
+      "Calyrex",
+      "Rayquaza"
+    ],
+    "moves": [
+      "Fake Out 89.4%",
+      "Flare Blitz 89.4%",
+      "Parting Shot 78.8%",
+      "Darkest Lariat 36.4%",
+      "Taunt 27.3%",
+      "Will-O-Wisp 25.8%",
+      "Focus Blast 10.6%",
+      "Snarl 10.6%",
+      "Nasty Plot 10.6%",
+      "Fire Blast 10.6%"
+    ],
+    "ability": [
+      "Intimidate 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Careful 34.8%",
+      "Impish 26.1%",
+      "Adamant 19.6%",
+      "Sassy 10.9%",
+      "Jolly 8.7%"
+    ],
+    "item": [
+      "Sitrus Berry 54.3%",
+      "Figy Berry 174%",
+      "Safety Goggles 8.7%",
+      "Assault Vest 8.7%",
+      ""
+    ]
+  },
+  {
+    "name": "Tapu Fini",
+    "partners": [
+      "Solgaleo",
+      "Rillaboom.",
+      "Marowak",
+      "Incineroar",
+      "Calyrex",
+      "Cinderace",
+      "Dracozolt",
+      "Grimmsnarl",
+      "Amoonguss",
+      "Necrozma"
+    ],
+    "moves": [
+      "Moonblast 78.3%",
+      "Muddy Water 73.9%",
+      "Calm Mind 30.4%",
+      "Blizzard 30.4%",
+      "Dazzling Gleam 26.1%",
+      "Ice Beam 26.1%",
+      "Scald 26.1%",
+      "Icy Wind 21.7%",
+      "Haze 21.7%",
+      "Protect 21.7%"
+    ],
+    "ability": [
+      "Misty Surge 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Bashful 42.9%",
+      "Hasty 42.9%",
+      "Modest 14.3%",
+      "",
+      ""
+    ],
+    "item": [
+      "Leftovers 57.1%",
+      "Choice Specs A2.9%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "716 Xerneas",
+    "partners": [
+      "Incineroar",
+      "Whimsicott",
+      "Kyogre",
+      "Amoonguss",
+      "Marowak",
+      "Tapu Fini",
+      "Celesteela",
+      "Venusaur",
+      "Tornadus",
+      "Zacian"
+    ],
+    "moves": [
+      "Geomancy 100.0%",
+      "Protect 100.0%",
+      "Moonblast 100.0%",
+      "Dazzling Gleam 45.2%",
+      "Focus Blast 32.3%",
+      "Psychic 22.6%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Fairy Aura 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Timid 75.0%",
+      "Modest 25.0%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Power Herb 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "312 Rillaboom",
+    "partners": [
+      "Tapu Fini",
+      "Solgaleo",
+      "Amoonguss",
+      "Regieleki",
+      "Necrozma",
+      "Marowak",
+      "Zamazenta",
+      "Dialga",
+      "Incineroar",
+      "Spectrier"
+    ],
+    "moves": [
+      "Grassy Glide 100.0%",
+      "Wood Hammer 93.1%",
+      "High Horsepower 82.8%",
+      "Knock Off 65.5%",
+      "U-turn 51.7%",
+      "Fake Out 6.9%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Grassy Surge 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Adamant 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Choice Band 86.7%",
+      "Assault Vest 13.3%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Calyrex",
+    "partners": [
+      "Tornadus",
+      "Cresselia",
+      "Pheromosa",
+      "Rayquaza",
+      "Incineroar",
+      "Tapu Fini",
+      "Cinderace",
+      "Dracozolt",
+      "Solgaleo",
+      "Grimmsnarl"
+    ],
+    "moves": [
+      "Close Combat 100.0%",
+      "Glacial Lance 100.0%",
+      "High Horsepower 51.7%",
+      "Protect 51.7%",
+      "Heavy Slam 48.3%",
+      "Crunch 48.3%",
+      "",
+      ""
+    ],
+    "ability": [
+      "As One 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Rash 51.9%",
+      "Brave 48.1%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Assault Vest 51.9%",
+      "Weakness Policy 48.1%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Amoonguss",
+    "partners": [
+      "Incineroar",
+      "Xerneas",
+      "Rillaboom.",
+      "Necrozma",
+      "Tapu Fini",
+      "Solgaleo",
+      "Marowak",
+      "Zacian",
+      "Whimsicott",
+      "Regieleki"
+    ],
+    "moves": [
+      "Protect 100.0%",
+      "Spore 100.0%",
+      "Rage Powder 100.0%",
+      "Pollen Puff 73.1%",
+      "Clear Smog 26.9%",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Effect Spore 53.8%",
+      "Regenerator 46.2%",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Impish 53.8%",
+      "Calm 23.1%",
+      "Sassy 23.1%",
+      "",
+      ""
+    ],
+    "item": [
+      "Coba Berry 76.9%",
+      "Focus Sash 23.1%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Solgaleo",
+    "partners": [
+      "Tapu Fini",
+      "Calyrex",
+      "Cinderace",
+      "Dracozolt",
+      "Grimmsnarl",
+      "Marowak",
+      "Necrozma",
+      "Amoonguss",
+      "Rillaboom.",
+      ""
+    ],
+    "moves": [
+      "Sunsteel Strike 100.0%",
+      "Earthquake 100.0%",
+      "Wild Charge 100.0%",
+      "Zen Headbutt 53.8%",
+      "Close Combat 46.2%",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Full Metal Body 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Brave 53.8%",
+      "Adamant 46.2%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Weakness Policy 53.8%",
+      "Assault Vest 46.2%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Dialga",
+    "partners": [
+      "Venusaur",
+      "Volcarona",
+      "Hitmontop",
+      "Groudon",
+      "Umbreon",
+      "Tapu Fini",
+      "Regieleki",
+      "Incineroar",
+      "Zamazenta",
+      "Rillaboom."
+    ],
+    "moves": [
+      "Flash Cannon 100.0%",
+      "Trick Room 100.0%",
+      "Protect 58.3%",
+      "Thunder 58.3%",
+      "Draco Meteor 41.7%",
+      "Earth Power 41.7%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Pressure 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Modest 58.3%",
+      "Timid ANT%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Weakness Policy 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "894 Regieleki",
+    "partners": [
+      "Incineroar",
+      "Rillaboom.",
+      "Zamazenta",
+      "Dialga",
+      "Tapu Fini",
+      "Tornadus",
+      "Zacian",
+      "Xerneas",
+      "Kyogre",
+      "Amoonguss"
+    ],
+    "moves": [
+      "Electroweb 100.0%",
+      "Volt Switch 100.0%",
+      "Light Screen 79.2%",
+      "Reflect 79.2%",
+      "Thunderbolt 20.8%",
+      "Hyper Beam 20.8%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Transistor 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Timid 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Light Clay 68.8%",
+      "Choice Specs 31.3%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Marowak",
+    "partners": [
+      "Tapu Fini",
+      "Rillaboom.",
+      "Solgaleo",
+      "Amoonguss",
+      "Necrozma",
+      "Kyogre",
+      "Xerneas",
+      "Incineroar",
+      "Whimsicott",
+      ""
+    ],
+    "moves": [
+      "Flare Blitz 100.0%",
+      "Protect 100.0%",
+      "Poltergeist 54.5%",
+      "Thunder Punch 54.5%",
+      "Iron Head 45.5%",
+      "Bonemerang 45.5%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Lightning Rod 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Brave 66.7%",
+      "Relaxed 33.3%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Thick Club 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Grimmsnarl",
+    "partners": [
+      "Dracozolt",
+      "Solgaleo",
+      "Cinderace",
+      "Calyrex",
+      "Tapu Fini",
+      "Zacian",
+      "Regieleki",
+      "Yveltal",
+      "Entei",
+      "Dragapult"
+    ],
+    "moves": [
+      "Reflect 100.0%",
+      "Light Screen 100.0%",
+      "Taunt 77.3%",
+      "Foul Play 77.3%",
+      "Fake Out 22.7%",
+      "Thunder Wave 22.7%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Prankster 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Serious 61.9%",
+      "Adamant 23.8%",
+      "Bold 14.3%",
+      "",
+      ""
+    ],
+    "item": [
+      "Light Clay 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "641 Tornadus",
+    "partners": [
+      "Incineroar",
+      "Cresselia",
+      "Calyrex",
+      "Pheromosa",
+      "Rayquaza",
+      "Regieleki",
+      "Kyogre",
+      "Amoonguss",
+      "Xerneas",
+      ""
+    ],
+    "moves": [
+      "Ww Ea",
+      "",
+      "oT ite) ier et",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Prankster 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Timid 66.7%",
+      "Modest 33.3%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Focus Sash 66.7%",
+      "Sitrus Berry 33.3%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "383 Groudon",
+    "partners": [
+      "Venusaur",
+      "Volcarona",
+      "Umbreon",
+      "Hitmontop",
+      "Dialga",
+      "Incineroar",
+      "Celesteela",
+      "Xerneas",
+      "Indeedee",
+      ""
+    ],
+    "moves": [
+      "Swords Dance 100.0%",
+      "Protect 100.0%",
+      "Fire Punch 100.0%",
+      "Precipice Blades 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Drought 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Adamant 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Sitrus Berry 70.0%",
+      "Lum Berry 30.0%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Venusaur",
+    "partners": [
+      "Groudon",
+      "Dialga",
+      "Volcarona",
+      "Umbreon",
+      "Hitmontop",
+      "Celesteela",
+      "Incineroar",
+      "Xerneas",
+      "Indeedee",
+      ""
+    ],
+    "moves": [
+      "Leaf Storm 100.0%",
+      "Sleep Powder 100.0%",
+      "Sludge Bomb 100.0%",
+      "Protect 66.7%",
+      "Earth Power 33.3%",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Chlorophyll 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Modest 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Life Orb 85.7%",
+      "Wide Lens 14.3%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "315 Cinderace",
+    "partners": [
+      "Tapu Fini",
+      "Grimmsnarl",
+      "Solgaleo",
+      "Calyrex",
+      "Dracozolt",
+      "Primarina",
+      "Dragapult",
+      "Marshadow",
+      "Incineroar",
+      "Mewtwo"
+    ],
+    "moves": [
+      "Pyro Ball 100.0%",
+      "Gunk Shot 100.0%",
+      "Coaching 66.7%",
+      "Sucker Punch 66.7%",
+      "Zen Headbutt 33.3%",
+      "Blaze Kick 33.3%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Libero 63.6%",
+      "Blaze 36.4%",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Jolly 63.6%",
+      "Lonely 36.4%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "lapapa Berry 63.6%",
+      "Charcoal 36.4%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Whimsicott",
+    "partners": [
+      "Xerneas",
+      "Incineroar",
+      "Marowak",
+      "Kyogre",
+      "Tapu Fini",
+      "Zacian",
+      "Thundurus",
+      "Amoonguss",
+      "Rillaboom.",
+      "Reshiram"
+    ],
+    "moves": [
+      "Tailwind 100.0%",
+      "Taunt 100.0%",
+      "Protect 52.6%",
+      "Grass Knot 52.6%",
+      "Helping Hand 474%",
+      "Moonblast 47%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Prankster 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Timid 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Focus Sash 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "382 Kyogre",
+    "partners": [
+      "",
+      "ee hee",
+      "Se",
+      "ala ii brn",
+      "Sak etait ar",
+      "",
+      "diab sinnla  saanical",
+      "heeadgca nail",
+      "balnars._hiagisbna gan",
+      ""
+    ],
+    "moves": [
+      "Thunder 100.0%",
+      "Ice Beam 100.0%",
+      "Water Spout 100.0%",
+      "Origin Pulse 58.8%",
+      "Protect 41.2%",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Drizzle 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Timid 58.8%",
+      "Modest A1.2%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Life Orb 58.8%",
+      "Mystic Water A1.2%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "488 cresselia",
+    "partners": [
+      "POK",
+      "",
+      "",
+      "",
+      "ee hee",
+      "pected eer",
+      "a",
+      "Lads\u2019 doe eabmin",
+      "",
+      ""
+    ],
+    "moves": [
+      "Helping Hand 100.0%",
+      "Trick Room 100.0%",
+      "Icy Wind 100.0%",
+      "Ally Switch 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Levitate 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Sassy 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Mental Herb 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Rayquaza",
+    "partners": [
+      "POK",
+      "",
+      "",
+      "",
+      "ee",
+      "pected eer",
+      "bes chica",
+      "sanity Fal",
+      "a",
+      ""
+    ],
+    "moves": [
+      "Extreme Speed 100.0%",
+      "Earthquake 100.0%",
+      "Dragon Ascent 100.0%",
+      "Iron Head 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Air Lock 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Jolly 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Choice Band 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Pheromosa",
+    "partners": [
+      "POK",
+      "a",
+      "",
+      "",
+      "",
+      "",
+      "heeadycat omnia ll",
+      "ha phi?",
+      "Lads\u2019 doe eabmin",
+      ""
+    ],
+    "moves": [
+      "Triple Axel 100.0%",
+      "U-turn 100.0%",
+      "Low Kick 100.0%",
+      "Substitute 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Beast Boost 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Jolly 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Black Belt 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Volcarona",
+    "partners": [
+      "POK",
+      "",
+      "",
+      "",
+      "",
+      "SE nen peter:",
+      "si: spent",
+      "hansagns, i",
+      "Penpals",
+      ""
+    ],
+    "moves": [
+      "Heat Wave 100.0%",
+      "Rage Powder 100.0%",
+      "Overheat 100.0%",
+      "String Shot 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Flame Body 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Modest 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Life Orb 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "37 Hitmontop",
+    "partners": [
+      "POK",
+      "",
+      "",
+      "",
+      "ne ee",
+      "len palpunimtenirs",
+      "bensfengns,",
+      "Penpals",
+      "Riiclam nes hsuinaininh",
+      ""
+    ],
+    "moves": [
+      "Wide Guard 100.0%",
+      "Fake Out 100.0%",
+      "Close Combat 100.0%",
+      "Vacuum Wave 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Intimidate 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Adamant 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Focus Sash 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "888 Zacian",
+    "partners": [
+      "Whimsicott",
+      "Thundurus",
+      "Regieleki",
+      "Amoonguss",
+      "Incineroar",
+      "Xerneas",
+      "Yveltal",
+      "Dragapult",
+      "Grimmsnarl",
+      "Entei"
+    ],
+    "moves": [
+      "Protect 100.0%",
+      "Iron Head 100.0%",
+      "Crunch 50.0%",
+      "Play Rough 50.0%",
+      "Wild Charge 50.0%",
+      "Close Combat 50.0%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Intrepid Sword 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Jolly 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Rusted Sword 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "197 Umbreon",
+    "partners": [
+      "POK",
+      "",
+      "",
+      "",
+      "",
+      "len palpunimtenirs",
+      "ang aby itp",
+      "hansagns, i",
+      "Penpals",
+      ""
+    ],
+    "moves": [
+      "Foul Play 100.0%",
+      "Moonlight 100.0%",
+      "Helping Hand 100.0%",
+      "Taunt 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Synchronize 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Impish 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Safety Goggles 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Dracozolt",
+    "partners": [
+      "POK",
+      "",
+      "",
+      "",
+      "",
+      "iol ahariagabraie lack",
+      "",
+      "a",
+      "SE eee",
+      ""
+    ],
+    "moves": [
+      "Dragon Claw 100.0%",
+      "Bolt Beak 100.0%",
+      "Aerial Ace 100.0%",
+      "Rock Slide 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Hustle 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Adamant 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Choice Scarf 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Necrozma",
+    "partners": [
+      "POK",
+      "",
+      "",
+      "",
+      "bisa prea",
+      "",
+      "",
+      "",
+      "ba jh \"akc",
+      ""
+    ],
+    "moves": [
+      "Sunsteel Strike 100.0%",
+      "Earthquake 100.0%",
+      "Photon Geyser 100.0%",
+      "Trick Room 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Prism Armor 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Brave 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Weakness Policy 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Reshiram",
+    "partners": [
+      "Porygon",
+      "Lunala",
+      "Vulpix",
+      "Ninetales",
+      "Dragonite",
+      "Regieleki",
+      "Zacian",
+      "Whimsicott",
+      "Rotom",
+      "Rillaboom."
+    ],
+    "moves": [
+      "Protect 100.0%",
+      "Draco Meteor 100.0%",
+      "Blue Flare 83.3%",
+      "Focus Blast 83.3%",
+      "Fusion Flare 16.7%",
+      "Solar Beam 16.7%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Turboblaze 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Quiet 83.3%",
+      "Timid 16.7%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Power Belt 83.3%",
+      "Life Orb 16.7%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Dragapult",
+    "partners": [
+      "Marshadow",
+      "Incineroar",
+      "Cinderace",
+      "Primarina",
+      "Mewtwo",
+      "Entei",
+      "Regieleki",
+      "Grimmsnarl",
+      "Zacian",
+      "Yveltal"
+    ],
+    "moves": [
+      "\u2018Top 10 Pok\u00e9mon seen in Battle Teams with this Pokemon",
+      "",
+      "Hex 58.3%",
+      "Dragon Darts 58.3%",
+      "Shadow Ball 58.3%",
+      "Dragon Rush 58.3%",
+      "Dragon Claw ANT%",
+      "Fly A1T%",
+      "Protect AN7%",
+      "Phantom Force 417%"
+    ],
+    "ability": [
+      "Infiltrator 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Calm 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Absorb Bulb 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "89 Zamazenta",
+    "partners": [
+      "POK",
+      "",
+      "",
+      "",
+      "",
+      "Lis adr aes beahl",
+      "",
+      "ha phi?",
+      "balnars._hiagisbna gan",
+      ""
+    ],
+    "moves": [
+      "Wide Guard 100.0%",
+      "Close Combat 100.0%",
+      "Helping Hand 100.0%",
+      "Iron Head 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Dauntless Shield 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Jolly 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Rusted Shield 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Dragonite",
+    "partners": [
+      "POK",
+      "",
+      "",
+      "",
+      "angi",
+      "Pain loan inline",
+      "Fp rohan",
+      "",
+      "ide al",
+      ""
+    ],
+    "moves": [
+      "Superpower 100.0%",
+      "Stone Edge 100.0%",
+      "Dual Wingbeat 100.0%",
+      "Dragon Rush 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ability": [
+      "Inner Focus 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Adamant 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Choice Band 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]

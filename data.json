@@ -1,0 +1,144 @@
+[
+  {
+    "name": "Incineroar",
+    "partners": [
+      "Xerneas",
+      "Tornadus",
+      "Tapu Fini",
+      "Regieleki",
+      "Whimsicott",
+      "Kyogre",
+      "Pheromosa",
+      "Cresselia",
+      "Calyrex",
+      "Rayquaza"
+    ],
+    "moves": [
+      "Fake Out 89.4%",
+      "Flare Blitz 89.4%",
+      "Parting Shot 78.8%",
+      "Darkest Lariat 36.4%",
+      "Taunt 27.3%",
+      "Will-O-Wisp 25.8%",
+      "Focus Blast 10.6%",
+      "Snarl 10.6%",
+      "Nasty Plot 10.6%",
+      "Fire Blast 10.6%"
+    ],
+    "ability": [
+      "Intimidate 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Careful 34.8%",
+      "Impish 26.1%",
+      "Adamant 19.6%",
+      "Sassy 10.9%",
+      "Jolly 8.7%"
+    ],
+    "item": [
+      "Sitrus Berry 54.3%",
+      "Figy Berry 17A%",
+      "Safety Goggles 8.7%",
+      "Assault Vest 8.7%",
+      ""
+    ]
+  },
+  {
+    "name": "Tapu Fini",
+    "partners": [
+      "Solgaleo",
+      "Rillaboom.",
+      "Marowak",
+      "Incineroar",
+      "Calyrex",
+      "Cinderace",
+      "Dracozolt",
+      "Grimmsnarl",
+      "Amoonguss",
+      "Necrozma"
+    ],
+    "moves": [
+      "Moonblast 78.3%",
+      "Muddy Water 73.9%",
+      "Calm Mind 30.4%",
+      "Blizzard 30.4%",
+      "Dazzling Gleam 26.1%",
+      "Ice Beam 26.1%",
+      "Scald 26.1%",
+      "Icy Wind 21.7%",
+      "Haze 21.7%",
+      "Protect 21.7%"
+    ],
+    "ability": [
+      "Misty Surge 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Bashful 42.9%",
+      "Hasty 42.9%",
+      "Modest 14.3%",
+      "",
+      ""
+    ],
+    "item": [
+      "Leftovers 57.1%",
+      "Choice Specs A2.9%",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "716 Xerneas",
+    "partners": [
+      "Incineroar",
+      "Whimsicott",
+      "Kyogre",
+      "Amoonguss",
+      "Marowak",
+      "Tapu Fini",
+      "Celesteela",
+      "Venusaur",
+      "Tornadus",
+      "Zacian"
+    ],
+    "moves": [
+      "Geomancy 100.0%",
+      "Protect 100.0%",
+      "Moonblast 100.0%",
+      "Dazzling Gleam 45.2%",
+      "Focus Blast 32.3%",
+      "Psychic 22.6%",
+      "",
+      ""
+    ],
+    "ability": [
+      "Fairy Aura 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "nature": [
+      "Timid 75.0%",
+      "Modest 25.0%",
+      "",
+      "",
+      ""
+    ],
+    "item": [
+      "Power Herb 100.0%",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+]
