@@ -34,6 +34,18 @@ def getName():
     name = pytesseract.image_to_string(w).strip().replace("\n\n"," ")
     return name
 
+def splitData(str):
+    x = str.split(" ")
+
+    try:
+        value = round(float(x.pop(len(x) - 1).strip("%"))/100, 3)
+    except:
+        value = -1
+    
+    name = " ".join(x)
+    
+    return {name : value}
+
 def click(x, y):
     mouse.click(x, y)
     mouse.moveTo(1400,65)
@@ -63,12 +75,14 @@ for k in range(0,3):
         for i in range(0,10):
             w = ImageGrab.grab(bbox=(1100, 110 + 80 * i, 1250, 135 + 80 * i))
             w = pytesseract.image_to_string(w).strip().replace("\n\n"," ")
-            current["partners"].append(w)
+            if(w != ""):
+                current["partners"].append(w)
     else:
         for i in range(0,6):
             w = ImageGrab.grab(bbox=(1100, 435 + 80 * i, 1250, 510 + 80 * i))
             w = pytesseract.image_to_string(w).strip().replace("\n\n"," ")
-            current["partners"].append(w)
+            if(w != ""):
+                current["partners"].append(w)
     scrollUp()
 
 
@@ -79,12 +93,16 @@ for k in range(0,3):
         for i in range(0,10):
             w = ImageGrab.grab(bbox=(1100, 185 + 65 * i, 1550, 220 + 65 * i))
             w = pytesseract.image_to_string(w).strip().replace("\n\n"," ")
-            current["moves"].append(w)
+            if(w != ""):
+                val = splitData(w)
+                current["moves"].append(val)
     else:
         for i in range(0,8):
             w = ImageGrab.grab(bbox=(1100, 430 + 65 * i, 1550, 465 + 65 * i))
             w = pytesseract.image_to_string(w).strip().replace("\n\n"," ")
-            current["moves"].append(w)
+            if(w != ""):
+                val = splitData(w)
+                current["moves"].append(val)
     scrollUp()
 
     #abilites
@@ -92,21 +110,27 @@ for k in range(0,3):
     for i in range(0,5):
         w = ImageGrab.grab(bbox=(1100, 435 + 65 * i, 1550, 465 + 65 * i))
         w = pytesseract.image_to_string(w).strip().replace("\n\n"," ")
-        current["ability"].append(w)
+        if(w != ""):
+            val = splitData(w)
+            current["ability"].append(val)
 
     #nature
     click(1325, 360)
     for i in range(0,5):
         w = ImageGrab.grab(bbox=(1100, 435 + 65 * i, 1550, 465 + 65 * i))
         w = pytesseract.image_to_string(w).strip().replace("\n\n"," ")
-        current["nature"].append(w)
+        if(w != ""):
+            val = splitData(w)
+            current["nature"].append(val)
 
     #item
     click(1425,360)
     for i in range(0,5):
         w = ImageGrab.grab(bbox=(1100, 435 + 65 * i, 1550, 465 + 65 * i))
         w = pytesseract.image_to_string(w).strip().replace("\n\n"," ")
-        current["item"].append(w)
+        if(w != ""):
+            val = splitData(w)
+            current["item"].append(val)
 
     toJson.append(current)
     # with open("data.json") as json_file:
