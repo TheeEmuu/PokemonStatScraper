@@ -32,6 +32,8 @@ def scrollUp():
 def getName():
     w = ImageGrab.grab(bbox=(1265,150,1500,175))
     name = pytesseract.image_to_string(w).strip().replace("\n\n"," ")
+    if(name != "" and name[0].isdigit()):
+        name = name[4:]
     return name
 
 def splitData(str):

@@ -14,37 +14,72 @@
       "Rayquaza"
     ],
     "moves": [
-      "Fake Out 89.4%",
-      "Flare Blitz 89.4%",
-      "Parting Shot 78.8%",
-      "Darkest Lariat 36.4%",
-      "Taunt 27.3%",
-      "Will-O-Wisp 25.8%",
-      "Focus Blast 10.6%",
-      "Snarl 10.6%",
-      "Nasty Plot 10.6%",
-      "Fire Blast 10.6%"
+      {
+        "Fake Out": 0.894
+      },
+      {
+        "Flare Blitz": 0.894
+      },
+      {
+        "Parting Shot": 0.788
+      },
+      {
+        "Darkest Lariat": 0.364
+      },
+      {
+        "Taunt": 0.273
+      },
+      {
+        "Will-O-Wisp": 0.258
+      },
+      {
+        "Focus Blast": 0.106
+      },
+      {
+        "Snarl": 0.106
+      },
+      {
+        "Nasty Plot": 0.106
+      },
+      {
+        "Fire Blast": 0.106
+      }
     ],
     "ability": [
-      "Intimidate 100.0%",
-      "",
-      "",
-      "",
-      ""
+      {
+        "Intimidate": 1.0
+      }
     ],
     "nature": [
-      "Careful 34.8%",
-      "Impish 26.1%",
-      "Adamant 19.6%",
-      "Sassy 10.9%",
-      "Jolly 8.7%"
+      {
+        "Careful": 0.348
+      },
+      {
+        "Impish": 0.261
+      },
+      {
+        "Adamant": 0.196
+      },
+      {
+        "Sassy": 0.109
+      },
+      {
+        "Jolly": 0.087
+      }
     ],
     "item": [
-      "Sitrus Berry 54.3%",
-      "Figy Berry 17A%",
-      "Safety Goggles 8.7%",
-      "Assault Vest 8.7%",
-      ""
+      {
+        "Sitrus Berry": 0.543
+      },
+      {
+        "Figy Berry": 1.74
+      },
+      {
+        "Safety Goggles": 0.087
+      },
+      {
+        "Assault Vest": 0.087
+      }
     ]
   },
   {
@@ -62,41 +97,64 @@
       "Necrozma"
     ],
     "moves": [
-      "Moonblast 78.3%",
-      "Muddy Water 73.9%",
-      "Calm Mind 30.4%",
-      "Blizzard 30.4%",
-      "Dazzling Gleam 26.1%",
-      "Ice Beam 26.1%",
-      "Scald 26.1%",
-      "Icy Wind 21.7%",
-      "Haze 21.7%",
-      "Protect 21.7%"
+      {
+        "Moonblast": 0.783
+      },
+      {
+        "Muddy Water": 0.739
+      },
+      {
+        "Calm Mind": 0.304
+      },
+      {
+        "Blizzard": 0.304
+      },
+      {
+        "Dazzling Gleam": 0.261
+      },
+      {
+        "Ice Beam": 0.261
+      },
+      {
+        "Scald": 0.261
+      },
+      {
+        "Icy Wind": 0.217
+      },
+      {
+        "Haze": 0.217
+      },
+      {
+        "Protect": 0.217
+      }
     ],
     "ability": [
-      "Misty Surge 100.0%",
-      "",
-      "",
-      "",
-      ""
+      {
+        "Misty Surge": 1.0
+      }
     ],
     "nature": [
-      "Bashful 42.9%",
-      "Hasty 42.9%",
-      "Modest 14.3%",
-      "",
-      ""
+      {
+        "Bashful": 0.429
+      },
+      {
+        "Hasty": 0.429
+      },
+      {
+        "Modest": 0.143
+      }
     ],
     "item": [
-      "Leftovers 57.1%",
-      "Choice Specs A2.9%",
-      "",
-      "",
-      ""
+      {
+        "Leftovers": 0.571
+      },
+      {
+        "Choice Specs": -1
+      }
     ]
   },
   {
-    "name": "716 Xerneas",
+    "name": "Xerneas",
     "partners": [
       "Incineroar",
       "Whimsicott",
@@ -110,35 +168,42 @@
       "Zacian"
     ],
     "moves": [
-      "Geomancy 100.0%",
-      "Protect 100.0%",
-      "Moonblast 100.0%",
-      "Dazzling Gleam 45.2%",
-      "Focus Blast 32.3%",
-      "Psychic 22.6%",
-      "",
-      ""
+      {
+        "Geomancy": 1.0
+      },
+      {
+        "Protect": 1.0
+      },
+      {
+        "Moonblast": 1.0
+      },
+      {
+        "Dazzling Gleam": 0.452
+      },
+      {
+        "Focus Blast": 0.323
+      },
+      {
+        "Psychic": 0.226
+      }
     ],
     "ability": [
-      "Fairy Aura 100.0%",
-      "",
-      "",
-      "",
-      ""
+      {
+        "Fairy Aura": 1.0
+      }
     ],
     "nature": [
-      "Timid 75.0%",
-      "Modest 25.0%",
-      "",
-      "",
-      ""
+      {
+        "Timid": 0.75
+      },
+      {
+        "Modest": 0.25
+      }
     ],
     "item": [
-      "Power Herb 100.0%",
-      "",
-      "",
-      "",
-      ""
+      {
+        "Power Herb": 1.0
+      }
     ]
   }
 ]
