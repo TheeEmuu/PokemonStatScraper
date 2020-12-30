@@ -1,0 +1,31 @@
+name,index,partner,move,moveFrequency,ability,abilityFrequency,nature,natureFrequency,item,itemFrequency
+Incineroar,1,Xerneas,Fake Out,0.894,Intimidate,1.0,Careful,0.348,Sitrus Berry,0.543
+Incineroar,2,Tornadus,Flare Blitz,0.894,,,Impish,0.261,Figy Berry,1.74
+Incineroar,3,Tapu Fini,Parting Shot,0.788,,,Adamant,0.196,Safety Goggles,0.087
+Incineroar,4,Regieleki,Darkest Lariat,0.364,,,Sassy,0.109,Assault Vest,0.087
+Incineroar,5,Whimsicott,Taunt,0.273,,,Jolly,0.087,,
+Incineroar,6,Kyogre,Will-O-Wisp,0.258,,,,,,
+Incineroar,7,Pheromosa,Focus Blast,0.106,,,,,,
+Incineroar,8,Cresselia,Snarl,0.106,,,,,,
+Incineroar,9,Calyrex,Nasty Plot,0.106,,,,,,
+Incineroar,10,Rayquaza,Fire Blast,0.106,,,,,,
+Tapu Fini,1,Solgaleo,Moonblast,0.783,Misty Surge,1.0,Bashful,0.429,Leftovers,0.571
+Tapu Fini,2,Rillaboom.,Muddy Water,0.739,,,Hasty,0.429,Choice Specs,-1
+Tapu Fini,3,Marowak,Calm Mind,0.304,,,Modest,0.143,,
+Tapu Fini,4,Incineroar,Blizzard,0.304,,,,,,
+Tapu Fini,5,Calyrex,Dazzling Gleam,0.261,,,,,,
+Tapu Fini,6,Cinderace,Ice Beam,0.261,,,,,,
+Tapu Fini,7,Dracozolt,Scald,0.261,,,,,,
+Tapu Fini,8,Grimmsnarl,Icy Wind,0.217,,,,,,
+Tapu Fini,9,Amoonguss,Haze,0.217,,,,,,
+Tapu Fini,10,Necrozma,Protect,0.217,,,,,,
+Xerneas,1,Incineroar,Geomancy,1.0,Fairy Aura,1.0,Timid,0.75,Power Herb,1.0
+Xerneas,2,Whimsicott,Protect,1.0,,,Modest,0.25,,
+Xerneas,3,Kyogre,Moonblast,1.0,,,,,,
+Xerneas,4,Amoonguss,Dazzling Gleam,0.452,,,,,,
+Xerneas,5,Marowak,Focus Blast,0.323,,,,,,
+Xerneas,6,Tapu Fini,Psychic,0.226,,,,,,
+Xerneas,7,Celesteela,,,,,,,,
+Xerneas,8,Venusaur,,,,,,,,
+Xerneas,9,Tornadus,,,,,,,,
+Xerneas,10,Zacian,,,,,,,,

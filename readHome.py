@@ -51,13 +51,13 @@ def splitData(str):
 def click(x, y):
     mouse.click(x, y)
     mouse.moveTo(1400,65)
-    time.sleep(0.5)
+    time.sleep(1)
 
 toJson = []
 
 click(1250, 100)
 
-for k in range(0,3):
+for k in range(0,50):
     current = {
         "name": "missingno",
         "partners" : [],
